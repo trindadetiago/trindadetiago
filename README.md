@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi, I'm Tiago Trindade! 👋
 
-<!--
-**trindadetiago/trindadetiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at [Federal University of Paraíba (UFPB)](https://www.ufpb.br/). Currently exploring the realms of data science and software development.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I'm passionate about data science and software development.
+- 🌱 I'm currently studying computer science at UFPB.
+- 👨‍💻 My main tool is Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- Python
+- [Add other tools here]
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/tiagotrindade03/)
+- [Website](https://trindadetiago.github.io/)
+
+## 📈 GitHub Stats
+[![Tiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trindadetiago&show_icons=true&theme=radical)](https://github.com/trindadetiago)
