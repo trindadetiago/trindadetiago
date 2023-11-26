@@ -13,6 +13,10 @@ I'm a Computer Science student at [Federal University of Paraíba (UFPB)](https:
 - NLP and LLMs
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trindadetiago&show_icons=true&theme=radical" alt="Tiago's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trindadetiago&layout=compact&theme=radical" alt="Tiago's Most Used Languages">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=trindadetiago&show_icons=true&theme=radical" alt="Tiago's GitHub Stats">
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trindadetiago&layout=compact&theme=radical" alt="Tiago's Most Used Languages">
+  </p>
 </div>
