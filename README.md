@@ -12,5 +12,7 @@ I'm a Computer Science student at [Federal University of Paraíba (UFPB)](https:
 - Software Development
 - NLP and LLMs
 
-## 📈 GitHub Stats
-[![Tiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trindadetiago&show_icons=true&theme=radical)](https://github.com/trindadetiago)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trindadetiago&show_icons=true&theme=radical" alt="Tiago's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trindadetiago&layout=compact&theme=radical" alt="Tiago's Most Used Languages">
+</div>
