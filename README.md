@@ -21,5 +21,5 @@ I'm a Computer Science student at [Federal University of Paraíba (UFPB)](https:
 ##
 
 <p align="center">
-  <img height="40em" src="https://komarev.com/ghpvc/?username=trindadetiago&color=grey&style=plastic&label=Profile%20Views%20&logo=github" alt="Tiago's Profile Views Counter">
+  <img height="30em" src="https://komarev.com/ghpvc/?username=trindadetiago&color=grey&style=plastic&label=Profile%20Views%20&logo=github" alt="Tiago's Profile Views Counter">
 </p>
