@@ -4,4 +4,4 @@ Computer Science student at [Federal University of Paraíba (UFPB)](https://www.
 
 [LinkedIn](https://www.linkedin.com/in/tiagotrindade03/) · [Website](https://trindadetiago.github.io/)
 
-![Cool animation](assets/cool-wave.svg)
+![Contribution snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
