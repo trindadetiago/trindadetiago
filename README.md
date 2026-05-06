@@ -2,7 +2,7 @@
 
 Computer Science student at [Federal University of Paraíba (UFPB)](https://www.ufpb.br/).
 
-[LinkedIn](https://www.linkedin.com/in/tiagotrindade03/) · [Website](https://trindadetiago.github.io/)
+[LinkedIn](https://www.linkedin.com/in/tiagotrindade03/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trindadetiago/trindadetiago/output/github-contribution-grid-snake-dark.svg" />
